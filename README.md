@@ -1,5 +1,4 @@
-> 自动完成崩崩崩视觉小说成就的JavaScript脚本
-
+自动完成崩崩崩视觉小说成就的JavaScript脚本
 
 ## Usage
 * 获取自己游戏帐号的auth_key与sign hash，可以[参考这里](http://bbs.nga.cn/read.php?tid=14608507)
