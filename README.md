@@ -6,7 +6,7 @@
 * F12进入开发者模式
 * **Ctrl+F8 取消所有断点调试。即toggle Activate breakpoint**
 * **再次刷新页面 或 按F8 或 点击蓝色箭头 继续脚本执行**
-* 在Console键入js内的代码并回车。**若出现操作频繁等问题，请参考Notice部分**
+* 在Console键入js内的代码并回车。
 
 ## Notice
 
